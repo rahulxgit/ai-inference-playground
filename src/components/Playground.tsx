@@ -1,4 +1,4 @@
-import React from 'react';
+// import React from 'react';
 import { InputPanel } from './InputPanel';
 import { StreamOutput } from './StreamOutput';
 import { MetricsBar } from './MetricsBar';

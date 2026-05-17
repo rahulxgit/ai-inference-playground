@@ -1,4 +1,4 @@
-import React from 'react';
+// import React from 'react';
 import type { StreamState } from '../types';
 
 interface Props {

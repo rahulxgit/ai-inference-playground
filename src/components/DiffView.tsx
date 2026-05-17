@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import  { useState } from 'react';
 import { diffTexts } from '../lib/diff';
 import type { DiffToken } from '../types';
 
